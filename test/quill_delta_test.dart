@@ -2,7 +2,7 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 import 'dart:convert';
 
-import 'package:quill_delta/quill_delta.dart';
+import 'package:quill_delta_dart/quill_delta_dart.dart';
 import 'package:test/test.dart';
 
 void main() {

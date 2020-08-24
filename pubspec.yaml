@@ -1,8 +1,7 @@
-name: quill_delta
+name: quill_delta_dart
 description: Simple and expressive format for describing rich-text content created for Quill.js editor. This package is unofficial port to Dart from JavaScript.
 version: 1.0.2
-homepage: https://github.com/pulyaevskiy/quill-delta-dart
-author: Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>
+homepage: https://github.com/volser/quill-delta-dart
 
 environment:
   sdk: '>=2.0.0 <3.0.0'

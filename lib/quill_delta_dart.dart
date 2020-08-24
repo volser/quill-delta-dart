@@ -2,7 +2,7 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 /// Implementation of Quill Delta format in Dart.
-library quill_delta;
+library quill_delta_dart;
 
 import 'dart:math' as math;
 
