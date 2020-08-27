@@ -1,3 +1,7 @@
+## 1.0.2-a.1
+
+* Added `DeltaIterator.peek()`
+
 ## 1.0.2
 
 * Fix attributes comparison for operations when attributes have complex values (maps, lists).
